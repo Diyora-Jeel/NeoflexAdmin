@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_black"
+    android:orientation="vertical"
+    android:paddingHorizontal="20dp"
+    android:gravity="center"
+    tools:context=".ui.AppActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Admob Ad"
+        android:textColor="@color/yellow"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/AdShowBtn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:paddingVertical="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Movie"
+        android:textColor="@color/yellow"
+        android:textSize="20sp"
+        android:layout_marginTop="50dp"
+        />
+
+    <TextView
+        android:id="@+id/movieShowBtn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:paddingVertical="10dp" />
+
+</LinearLayout>

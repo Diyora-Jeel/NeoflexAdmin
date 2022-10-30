@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_black"
+    tools:context=".ui.AddDataActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hindi Movie"
+                android:textColor="@color/yellow"
+                android:textSize="20sp"
+                />
+
+            <EditText
+                android:id="@+id/HMTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/et_outline_white"
+                android:hint="Hindi Movie Title"
+                android:inputType="textMultiLine"
+                android:padding="10dp"
+                android:textColorHint="@color/light_gray"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/HMPhoto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textMultiLine"
+                android:layout_marginTop="15dp"
+                android:textSize="16sp"
+                android:padding="10dp"
+                android:hint="Hindi Movie Photo"
+                android:textColorHint="@color/light_gray"
+                android:background="@drawable/et_outline_white"
+                />
+
+            <EditText
+                android:id="@+id/HMLink"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"
+                android:layout_marginTop="15dp"
+                android:textSize="16sp"
+                android:padding="10dp"
+                android:hint="Hindi Movie Link"
+                android:gravity="top|left"
+                android:textColorHint="@color/light_gray"
+                android:background="@drawable/et_outline_white"
+                />
+
+            <TextView
+                android:id="@+id/HMSaveBtn"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="Hindi Movie Save"
+                android:textColor="@color/black"
+                android:background="@drawable/fill_shape_white"
+                android:paddingVertical="10dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="English Movie"
+                android:textColor="@color/yellow"
+                android:textSize="20sp"
+                android:layout_marginTop="30dp"
+                />
+
+            <EditText
+                android:id="@+id/EMTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textMultiLine"
+                android:layout_marginTop="15dp"
+                android:textSize="16sp"
+                android:padding="10dp"
+                android:hint="English Movie Title"
+                android:textColorHint="@color/light_gray"
+                android:background="@drawable/et_outline_white"
+                />
+
+            <EditText
+                android:id="@+id/EMPhoto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textMultiLine"
+                android:layout_marginTop="15dp"
+                android:textSize="16sp"
+                android:padding="10dp"
+                android:hint="English Movie Photo"
+                android:textColorHint="@color/light_gray"
+                android:background="@drawable/et_outline_white"
+                />
+
+            <EditText
+                android:id="@+id/EMLink"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"
+                android:layout_marginTop="15dp"
+                android:textSize="16sp"
+                android:padding="10dp"
+                android:gravity="top|left"
+                android:hint="English Movie Link"
+                android:textColorHint="@color/light_gray"
+                android:background="@drawable/et_outline_white"
+                />
+
+            <TextView
+                android:id="@+id/EMSaveBtn"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="English Movie Save"
+                android:textColor="@color/black"
+                android:background="@drawable/fill_shape_white"
+                android:paddingVertical="10dp" />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

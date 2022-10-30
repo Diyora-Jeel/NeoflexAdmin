@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/drawable/et_outline_white.xml" value="0.262" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/drawable/fill_shape_red.xml" value="0.2475" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/drawable/fill_shape_white.xml" value="0.2475" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/drawable/ic_copy.xml" value="0.2675" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/drawable/ic_delete.xml" value="0.269" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/drawable/ic_no_internet.xml" value="0.262" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/drawable/search_bg.xml" value="0.262" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_add_data.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_app.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_delete_english_mactivity.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_delete_hindi_mactivity.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_movie.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_movie_details.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_movie_image.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_redeem.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_user.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/activity_user_detail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/custom_loader.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/dialog_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/image_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/movie_watch_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/redeem_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/search_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/user_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Jeel/AndroidStudioProjects/NeoflexAdmin/app/src/main/res/layout/user_redeem_item.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
